@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.side-nav-menu {
+    background-color: #ed2d34;
+    height: 100vh;
+}
+.card2:hover {
+    transform: scale(1.05)
+    
+}
+.card2 {
+    transition:all 0.5s;
+}
+span {
+    color: #ed2d34;
+}
+.offcanvas {
+    background-color: #ed2d34;
+}
+
+#carousal1{
+    align-items: center;
+}
+
+#center {
+    margin-left: 35%;
+}
+
+#h5 {
+    margin-left: 40%;
+}
+
+.carousel-item {
+    align-items: center;
+}
